@@ -1,4 +1,4 @@
-package com.example.android.simple531tracker
+package com.gmail.maxfixsoftware.simple531tracker
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

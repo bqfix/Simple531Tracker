@@ -1,4 +1,4 @@
-package com.example.android.simple531tracker
+package com.gmail.maxfixsoftware.simple531tracker
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
